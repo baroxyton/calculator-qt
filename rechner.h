@@ -14,6 +14,7 @@ class Rechner : public QMainWindow
 public:
     Rechner(QWidget *parent = nullptr);
     void handleClick(QString);
+    void renderCalculator();
     ~Rechner();
 
 private:

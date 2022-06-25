@@ -13,6 +13,7 @@ SOURCES += \
     rechner.cpp
 
 HEADERS += \
+    calculate.h \
     rechner.h
 
 FORMS += \
