@@ -71,7 +71,6 @@ background-color:#1B1B1B;
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -106,7 +105,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -141,7 +139,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -160,7 +157,7 @@ QPushButton:pressed {
       </widget>
      </item>
      <item row="2" column="0">
-      <widget class="QPushButton" name="button_sigmaPlus">
+      <widget class="QPushButton" name="button_sigmaplus">
        <property name="minimumSize">
         <size>
          <width>50</width>
@@ -176,7 +173,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -213,7 +209,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -250,7 +245,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -287,7 +281,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -324,7 +317,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -361,7 +353,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -396,7 +387,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -433,7 +423,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -470,7 +459,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -505,7 +493,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -542,7 +529,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -577,7 +563,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -614,7 +599,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -633,7 +617,7 @@ QPushButton:pressed {
       </widget>
      </item>
      <item row="4" column="0">
-      <widget class="QPushButton" name="button_rlc">
+      <widget class="QPushButton" name="button_rcl">
        <property name="minimumSize">
         <size>
          <width>50</width>
@@ -649,7 +633,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -686,7 +669,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -723,7 +705,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -758,7 +739,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -795,7 +775,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -830,7 +809,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -865,7 +843,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -900,7 +877,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -947,7 +923,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -982,7 +957,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1017,7 +991,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1052,7 +1025,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1087,7 +1059,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1140,7 +1111,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1177,7 +1147,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1198,7 +1167,7 @@ QPushButton:pressed {
       </widget>
      </item>
      <item row="1" column="0">
-      <widget class="QPushButton" name="button_hyp">
+      <widget class="QPushButton" name="button_mod">
        <property name="minimumSize">
         <size>
          <width>50</width>
@@ -1214,7 +1183,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1230,7 +1198,7 @@ QPushButton:pressed {
 }</string>
        </property>
        <property name="text">
-        <string>HYP</string>
+        <string>MOD</string>
        </property>
       </widget>
      </item>
@@ -1251,7 +1219,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1288,7 +1255,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1325,7 +1291,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1362,7 +1327,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1399,7 +1363,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1434,7 +1397,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1471,7 +1433,6 @@ QPushButton:pressed {
        <property name="font">
         <font>
          <pointsize>10</pointsize>
-         <weight>75</weight>
          <bold>true</bold>
         </font>
        </property>
@@ -1517,7 +1478,6 @@ QPushButton:pressed {
     <property name="font">
      <font>
       <pointsize>10</pointsize>
-      <weight>75</weight>
       <bold>true</bold>
      </font>
     </property>
@@ -1587,7 +1547,6 @@ border-radius:10px;
       <font>
        <family>Digital-7</family>
        <pointsize>31</pointsize>
-       <weight>50</weight>
        <bold>false</bold>
        <underline>false</underline>
        <kerning>true</kerning>
@@ -1635,7 +1594,6 @@ border-radius:0;
      <property name="font">
       <font>
        <family>Digital-7</family>
-       <weight>75</weight>
        <bold>true</bold>
       </font>
      </property>
@@ -1649,24 +1607,106 @@ color:transparent;
       <string>2nd</string>
      </property>
     </widget>
-   </widget>
-   <widget class="QLabel" name="label_2">
-    <property name="geometry">
-     <rect>
-      <x>100</x>
-      <y>280</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
+    <widget class="QLabel" name="show_trigmode">
+     <property name="geometry">
+      <rect>
+       <x>250</x>
+       <y>80</y>
+       <width>20</width>
+       <height>14</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Digital-7</family>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QLabel{
+background-color:transparent;
+color:transparent;
 }</string>
-    </property>
-    <property name="text">
-     <string>DRG-&gt;</string>
-    </property>
+     </property>
+     <property name="text">
+      <string>2nd</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="mem3_indicator">
+     <property name="geometry">
+      <rect>
+       <x>219</x>
+       <y>80</y>
+       <width>30</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Digital-7</family>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QLabel{
+background-color:transparent;
+color:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>mem3</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="mem2_indicator">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>80</y>
+       <width>30</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Digital-7</family>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QLabel{
+background-color:transparent;
+color:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>mem2</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="show_mem">
+     <property name="geometry">
+      <rect>
+       <x>280</x>
+       <y>80</y>
+       <width>20</width>
+       <height>14</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Digital-7</family>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QLabel{
+background-color:transparent;
+color:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>mem</string>
+     </property>
+    </widget>
    </widget>
    <widget class="QLabel" name="label_3">
     <property name="geometry">
@@ -1689,9 +1729,9 @@ color:#4CB5C7;
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>240</x>
       <y>280</y>
-      <width>61</width>
+      <width>30</width>
       <height>20</height>
      </rect>
     </property>
@@ -1702,24 +1742,6 @@ color:#4CB5C7;
     </property>
     <property name="text">
      <string>e^x</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_5">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>330</y>
-      <width>51</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>K</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_6">
@@ -1858,24 +1880,6 @@ color:#4CB5C7;
      <string>n</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_13">
-    <property name="geometry">
-     <rect>
-      <x>170</x>
-      <y>430</y>
-      <width>61</width>
-      <height>10</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>ΣX</string>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_14">
     <property name="geometry">
      <rect>
@@ -1892,60 +1896,6 @@ color:#4CB5C7;
     </property>
     <property name="text">
      <string>Σ-</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_15">
-    <property name="geometry">
-     <rect>
-      <x>230</x>
-      <y>430</y>
-      <width>41</width>
-      <height>16</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>ΣX^2</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_16">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>480</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>EXC</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_17">
-    <property name="geometry">
-     <rect>
-      <x>100</x>
-      <y>480</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>CSR</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_18">
@@ -1982,96 +1932,6 @@ color:#4CB5C7;
     </property>
     <property name="text">
      <string>nPr</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_20">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>530</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>SUM</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_21">
-    <property name="geometry">
-     <rect>
-      <x>100</x>
-      <y>530</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>FLO</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_22">
-    <property name="geometry">
-     <rect>
-      <x>170</x>
-      <y>530</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>SCI</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_23">
-    <property name="geometry">
-     <rect>
-      <x>230</x>
-      <y>530</y>
-      <width>41</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>ENG</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_24">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>580</y>
-      <width>61</width>
-      <height>20</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>d/c</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_25">
@@ -2146,24 +2006,6 @@ color:#4CB5C7;
      <string>3√x</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_29">
-    <property name="geometry">
-     <rect>
-      <x>170</x>
-      <y>640</y>
-      <width>61</width>
-      <height>10</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QLabel{
-color:#4CB5C7;
-}</string>
-    </property>
-    <property name="text">
-     <string>FIX</string>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_30">
     <property name="geometry">
      <rect>
@@ -2187,6 +2029,90 @@ color:#4CB5C7;
      <string>IT-30 DIY</string>
     </property>
    </widget>
+   <widget class="QLabel" name="label_31">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>380</y>
+      <width>61</width>
+      <height>10</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel{
+color:#4CB5C7;
+}</string>
+    </property>
+    <property name="text">
+     <string>e</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_32">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>280</y>
+      <width>61</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel{
+color:#4CB5C7;
+}</string>
+    </property>
+    <property name="text">
+     <string>quit</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="mem1_indicator">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>130</y>
+      <width>30</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Digital-7</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel{
+background-color:transparent;
+color:transparent;
+}</string>
+    </property>
+    <property name="text">
+     <string>mem1</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>280</y>
+      <width>61</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel{
+color:#4CB5C7;
+}</string>
+    </property>
+    <property name="text">
+     <string>log_2</string>
+    </property>
+   </widget>
    <zorder>gridLayoutWidget</zorder>
    <zorder>gridLayoutWidget_2</zorder>
    <zorder>gridLayoutWidget_3</zorder>
@@ -2195,33 +2121,25 @@ color:#4CB5C7;
    <zorder>label_26</zorder>
    <zorder>label</zorder>
    <zorder>label_30</zorder>
-   <zorder>label_5</zorder>
    <zorder>label_19</zorder>
    <zorder>label_8</zorder>
-   <zorder>label_23</zorder>
    <zorder>label_6</zorder>
-   <zorder>label_17</zorder>
-   <zorder>label_16</zorder>
-   <zorder>label_24</zorder>
    <zorder>label_27</zorder>
    <zorder>label_28</zorder>
-   <zorder>label_2</zorder>
    <zorder>label_4</zorder>
    <zorder>label_9</zorder>
    <zorder>label_12</zorder>
-   <zorder>label_22</zorder>
    <zorder>label_7</zorder>
    <zorder>label_10</zorder>
    <zorder>label_18</zorder>
    <zorder>label_25</zorder>
-   <zorder>label_29</zorder>
-   <zorder>label_15</zorder>
-   <zorder>label_13</zorder>
    <zorder>label_14</zorder>
-   <zorder>label_20</zorder>
    <zorder>label_11</zorder>
    <zorder>label_3</zorder>
-   <zorder>label_21</zorder>
+   <zorder>label_31</zorder>
+   <zorder>label_32</zorder>
+   <zorder>mem1_indicator</zorder>
+   <zorder>label_5</zorder>
   </widget>
  </widget>
  <resources/>
